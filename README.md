@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADOBERabbita
-- 👀 I’m interested in new things related to design and code.
-- 🌱 I’m currently learning UI/UX Design and Front-end
+- 👀 I’m interested in new things related to design and code
+- 🌱 I’m currently learning UI/UX Design and Front-end Developer
 - 💞️ I’m looking to collaborate on every platform to be able to update the latest changes
 - 📫 How to reach me?
   + Mail: quangthoa11122001@gmail.com
